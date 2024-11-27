@@ -82,3 +82,9 @@ This project simulates a traffic light system with an on-demand crosswalk button
 
 - The system has been tested using **Proteus** simulation (or hardware if applicable). Each user story was tested to validate the proper transition of traffic light states.
 
+
+### Test Results
+
+You can view screenshots and videos of the tests conducted for this project by clicking the link below:
+
+[View Test Results](https://drive.google.com/drive/folders/1RWndX9K2mZEddG2IYoHMgLOabj7BhEA7?usp=sharing)
